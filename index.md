@@ -1,22 +1,6 @@
-# Matematyka Dyskretna 1 Wykład 8.03.2020
+\documentclass{article}
 
-test
-
-# H1
-## H2
-### H3
-
-**bold text**
-*italicized text*
-> blockquote
-
-1. First item
-2. Second item
-3. Third item
-
-- First item
-- Second item
-- Third item
-
-`code`
----
+\begin{document}
+First document. This is a simple example, with no 
+extra parameters or packages included.
+\end{document}
